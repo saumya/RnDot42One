@@ -1,0 +1,3 @@
+rootProject.name = 'Dot42One'
+
+include ':app'
