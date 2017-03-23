@@ -5,7 +5,7 @@ React Native Application
   - React-Native 0.42.3
   - Android
 
-For [Android setup on Ubuntu], here is a reference repository.
+### [Android setup on Ubuntu][1], here is a reference repository.
 
 
 
